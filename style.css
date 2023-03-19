@@ -124,12 +124,12 @@ p {
 .course-col {
 
     width: 500px;
-    background:rgb(247, 228, 192);
+    background:;
     border-radius: 10px;
     margin-bottom: 5%;
-    padding: 20px 12;
+    padding: 20px 12px;
     box-sizing: border-box;
-    transition: 0.5s;
+   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.4);
 }
 
 h3 {
@@ -138,9 +138,7 @@ h3 {
     margin: 10Px 0;
 }
 
-.course-col:hover {
-    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.4);
-}
+
 /* --campus */
 
 .campus{
