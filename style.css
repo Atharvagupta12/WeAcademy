@@ -292,6 +292,9 @@ text-align: left;
     display: flex;
     flex-direction: column;
 }
+.content{
+    padding-left: 5%;
+}
 .course{
     margin: 0;
     width: 100%;
